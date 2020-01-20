@@ -1,0 +1,11 @@
+require "bundler"
+require "rake"
+require "rspec"
+require "rest-client"
+require "json"
+require "pry"
+
+require_relative "../lib/eateries_project/version.rb"
+require_relative "../lib/eateries_project/eateries.rb"
+require_relative "../lib/eateries_project/cli.rb"
+require_relative "../lib/eateries_project/api_adapter.rb"

@@ -1,0 +1,3 @@
+class FtworthEats::CLI
+    
+end

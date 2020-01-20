@@ -1,0 +1,3 @@
+class FtworthEats::APIAdapter
+    
+end
